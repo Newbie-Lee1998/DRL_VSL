@@ -1,5 +1,9 @@
 # DRL_VSL
-A sumo environment for DRL-based VSL
+A SUMO-based environment for deep reinforcement learning (DRL) studies on variable speed limit (VSL) control.
+
+
+Welcome to reach out for academic discussion or collaboration.  
+**Email:** [linwei_li@chd.edu.cn]  
 
 
 # Repo status
